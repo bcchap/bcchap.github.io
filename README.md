@@ -42,7 +42,7 @@
 
 **Course:** UCD PHY 104B Computational Methods of Mathematical Physics
 
-**Textbook:** Computational Methods in Physics and Engineering by Samuel S. M. Wong
+**Textbook:** Computational Methods in Physics and Engineering by Samuel S. M. Wong 
 
 **Goal:**
 * Examine the Central Limit Theorem, which states that the sum of indepenent normalized random variables tends towards a uniform distribution regardless of the inital distribution of the sample for various shapes
