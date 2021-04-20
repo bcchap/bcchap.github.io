@@ -1,4 +1,6 @@
 # School Assignments
+___
+
 ## [Schroedinger's Equation - Particle Confined to a Potential Well](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq/schro-eq.py)
 
 **Course:** UCD PHY 104B Computational Methods of Mathematical Physics
@@ -18,6 +20,7 @@
 
 [Full Schroedinger's Equation Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq/shroq-eq-report.pdf)
 
+___
 
 ## [Special Functions - Hermite Polynomials, Simple Harmonic Oscillator](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-poly/hermite-polynomials.py)
 
@@ -38,6 +41,7 @@
 
 [Full Hermite Polynomials Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-poly/hermite-polynomials-report.pdf)
 
+___
 
 ## [Numerical Integration - The Monte Carlo Method](https://github.com/bcchap/school-assignments/tree/computational-physics/computational-physics/monte-carlo)
 
@@ -57,6 +61,7 @@
 
 [Full Monte Carlo Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/monte-carlo/monte-carlo-report.pdf)
 
+___
 
 ## [Methods of Least Squares - The Central Limit Theorem](https://github.com/bcchap/school-assignments/tree/computational-physics/computational-physics/central-limit)
 
