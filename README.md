@@ -31,6 +31,7 @@
 * Examine the limits of the Hermite polynomials by increasing the excitation level of the oscillator
 
 ### Related Plots
+![Hermite Polynomials](/school-assignment-images/hermpolyarray.png)
 ![Hermite Polynomials](/school-assignment-images/hermpoly.png)
 ![Wave Functions for Discrete Energy Levels](/school-assignment-images/psiho.png)
 ![Increasing Excitation of Particle](/school-assignment-images/compare.png)
