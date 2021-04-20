@@ -70,7 +70,13 @@
 * Compare various sample and summed distributions to a ormal distribution
 
 ### Related Plots: Part A
-![Linear Least Squares Fit](/school-assignment-images/linfit.png)
+<p align="center">
+  <img width="650"  src=/school-assignment-images/linfitvals.png>
+</p>
+
+<p align="center">
+  <img width="460"  src=/school-assignment-images/linfit.png>
+</p>
 
 ### Related Plots: Part B
 ![Even vs Normal](/school-assignment-images/n1.png)
