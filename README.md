@@ -71,11 +71,11 @@
 
 ### Related Plots: Part A
 <p align="center">
-  <src="https://github.com/bcchap/bcchap.github.io/blob/main/school-assignment-images/linfitvals.png">
+  <img width="700" src="/school-assignment-images/linfitvals.png">
 </p>
 
 <p align="center">
-  <img width="390" src="https://github.com/bcchap/bcchap.github.io/blob/main/school-assignment-images/linfit.png" class="img-responsive" alt="">
+  <img width="500" src="/school-assignment-images/linfit.png">
 </p>
 
 ### Related Plots: Part B
