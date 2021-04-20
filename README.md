@@ -36,3 +36,23 @@
 ![Increasing Excitation of Particle](/school-assignment-images/compare.png)
 
 [Full Hermite Polynomials Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-polynomials-report.pdf)
+
+
+## [Numerical Integration - The Monte Carlo Method](https://github.com/bcchap/school-assignments/tree/computational-physics/computational-physics/monte-carlo)
+
+**Course:** UCD PHY 104B Computational Methods of Mathematical Physics
+
+**Textbook:** Computational Methods in Physics and Engineering by Samuel S. M. Wong
+
+**Goal:**
+* Examine the Central Limit Theorem, which states that the sum of indepenent normalized random variables tends towards a uniform distribution regardless of the inital distribution of the sample for various shapes
+* Utilize the Monte Carlo method to solve numerical, multidimensional, and improper integrals
+* Examine the convergence of the Monte Carlo method
+
+### Related Plots
+![Normal Probability Function](/school-assignment-images/NPF.png)
+![Yukawa Potential](/school-assignment-images/YUKAWA.png)
+![Arcsin Identity](/school-assignment-images/ARCSIN.25.png)
+![Arcsin Identity](/school-assignment-images/ARCSIN.75.png)
+
+[Full Monte Carlo Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/monte-carlo/monte-carlo-report.pdf)
