@@ -10,9 +10,9 @@
 **Goal:** Solve Shroedinger's Equation for a particle in a finite 1-dimensional rectangular potential well where L = 7 fm and u_0 = 10 MeV find all possible energy levels and their corresponding wave functions then compare to the infinite potential well
 
 ## Related Plots
-![Determining Roots of the Transcendental Function](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/rootcheck.png)
-![Wave Function for the Finite Well](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/finwell.png)
-![Wave Functions for Discrete Energy Level](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/infvsfin.png)
-![Comparing the Infinite vs Finite Well Wave Functions](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/infvsfin.png)
+![Determining Roots of the Transcendental Function](https://github.com/bcchap/bcchap.github.io/blob/main/school-assignment-images/rootcheck.png)
+![Wave Function for the Finite Well](https://github.com/bcchap/bcchap.github.io/blob/main/school-assignment-images/finwell.png)
+![Wave Functions for Discrete Energy Level](https://github.com/bcchap/bcchap.github.io/blob/main/school-assignment-images/infwell.png)
+![Comparing the Infinite vs Finite Well Wave Functions](https://github.com/bcchap/bcchap.github.io/blob/main/school-assignment-images/infvsfin.png)
 
 [Full Schroedinger's Equation Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/shroq-eq-report.pdf)
