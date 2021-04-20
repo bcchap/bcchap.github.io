@@ -45,7 +45,6 @@
 **Textbook:** Computational Methods in Physics and Engineering by Samuel S. M. Wong 
 
 **Goal:**
-* Examine the Central Limit Theorem, which states that the sum of indepenent normalized random variables tends towards a uniform distribution regardless of the inital distribution of the sample for various shapes
 * Utilize the Monte Carlo method to solve numerical, multidimensional, and improper integrals
 * Examine the convergence of the Monte Carlo method
 
@@ -56,3 +55,38 @@
 ![Arcsin Identity](/school-assignment-images/ARCSIN.75.png)
 
 [Full Monte Carlo Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/monte-carlo/monte-carlo-report.pdf)
+
+
+## [Methods of Least Squares - The Central Limit Theorem](https://github.com/bcchap/school-assignments/tree/computational-physics/computational-physics/central-limit)
+
+**Course:** UCD PHY 104B Computational Methods of Mathematical Physics
+
+**Textbook:** Computational Methods in Physics and Engineering by Samuel S. M. Wong 
+
+**Goal:**
+* Use the method of Least Squares Fit to determine a best fit to linear data
+* Examine the Central Limit Theorem, which states that the sum of indepenent normalized random variables tends towards a normal distribution regardless of the inital distribution of the sample for various shapes
+* Compare various sample and summed distributions to a ormal distribution
+
+### Related Plots: Part A
+![Linear Least Squares Fit](/school-assignment-images/linfit.png)
+
+### Related Plots: Part B
+![Even vs Normal](/school-assignment-images/n1.png)
+![Even vs Normal](/school-assignment-images/n50.png)
+
+### Related Plots: Part C
+![Linear vs Normal](/school-assignment-images/n1lind.png)
+![Linear vs Normal](/school-assignment-images/n1lin.png)
+![Linear vs Normal](/school-assignment-images/n500lind.png)
+![Linear vs Normal](/school-assignment-images/n500lin.png)
+
+### Related Plots: Part D
+![Mickey vs Normal](/school-assignment-images/n1micd.png)
+![Mickey vs Normal](/school-assignment-images/n1mic.png)
+![Mickey vs Normal](/school-assignment-images/n500micd.png)
+![Mickey vs Normal](/school-assignment-images/n500mic.png)
+
+[Full Central Limit Theorem Report: Part A and B](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/central-limit/central-limit-theorem-a-b-report.pdf)
+
+[Full Central Limit Theorem Report: Part C and D](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/central-limit/central-limit-theorem-c-d-report.pdf)
