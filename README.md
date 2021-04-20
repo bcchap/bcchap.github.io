@@ -1,5 +1,5 @@
 # School Assignments
-## [Schroedinger's Equation - Particle Confined to a Potential Well](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq.py)
+## [Schroedinger's Equation - Particle Confined to a Potential Well](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq/schro-eq.py)
 
 **Course:** UCD PHY 104B Computational Methods of Mathematical Physics
 
@@ -16,10 +16,10 @@
 ![Wave Functions for Discrete Energy Level](/school-assignment-images/infwell.png)
 ![Comparing the Infinite vs Finite Well Wave Functions](/school-assignment-images/infvsfin.png)
 
-[Full Schroedinger's Equation Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq-report.pdf)
+[Full Schroedinger's Equation Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq/shroq-eq-report.pdf)
 
 
-## [Special Functions - Harmonic Oscillator](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-polynomials.py)
+## [Special Functions - Hermite Polynomials, Simple Harmonic Oscillator](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-poly/hermite-polynomials.py)
 
 **Course:** UCD PHY 104B Computational Methods of Mathematical Physics
 
@@ -35,7 +35,7 @@
 ![Wave Functions for Discrete Energy Levels](/school-assignment-images/psiho.png)
 ![Increasing Excitation of Particle](/school-assignment-images/compare.png)
 
-[Full Hermite Polynomials Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-polynomials-report.pdf)
+[Full Hermite Polynomials Report](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/hermite-poly/hermite-polynomials-report.pdf)
 
 
 ## [Numerical Integration - The Monte Carlo Method](https://github.com/bcchap/school-assignments/tree/computational-physics/computational-physics/monte-carlo)
