@@ -1,4 +1,6 @@
+***
 # School Assignments
+
 ***
 
 ## [Schroedinger's Equation - Particle Confined to a Potential Well](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/schro-eq/schro-eq.py)
