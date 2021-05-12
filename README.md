@@ -104,3 +104,5 @@ ___
 [Full Central Limit Theorem Report: Part A and B](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/central-limit/central-limit-theorem-a-b-report.pdf)
 
 [Full Central Limit Theorem Report: Part C and D](https://github.com/bcchap/school-assignments/blob/computational-physics/computational-physics/central-limit/central-limit-theorem-c-d-report.pdf)
+
+<iframe src="https://hub-binder.mybinder.ovh/user/bcchap-b3c9580c-529d7fb13df1e63-d907e6p7/view/nb_tester.html"></iframe>
